@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://powerpivotinsights.de/sitemap.xml
-Host: https://powerpivotinsights.de
+Sitemap: https://durchblick-durch-daten.de/sitemap.xml
+Host: https://durchblick-durch-daten.de
