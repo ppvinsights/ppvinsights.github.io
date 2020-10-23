@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://durchblick-durch-daten.de/sitemap.xml
-Host: https://durchblick-durch-daten.de
+Sitemap: https://www.durchblick-durch-daten.de/sitemap.xml
+Host: https://www.durchblick-durch-daten.de
