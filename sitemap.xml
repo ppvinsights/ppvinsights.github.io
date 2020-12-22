@@ -7,9 +7,10 @@
 <url> <loc>https://www.durchblick-durch-daten.de/gutschein/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.durchblick-durch-daten.de/gutschein-einloesen/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.durchblick-durch-daten.de/search/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.durchblick-durch-daten.de/ueber-uns/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.durchblick-durch-daten.de/author/am/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://www.durchblick-durch-daten.de/author/up/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.durchblick-durch-daten.de/author/hg/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.durchblick-durch-daten.de/author/up/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.durchblick-durch-daten.de/excel-dax-queries-to-power-bi/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.durchblick-durch-daten.de/kreuzfilter-hell/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.durchblick-durch-daten.de/kalendertabelle-mit-feiertagen-in-dax-erzeugen/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -121,16 +122,15 @@
 <url> <loc>https://www.durchblick-durch-daten.de/verbindung-zu-einer-textdatei/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.durchblick-durch-daten.de/was-ist-power-pivot/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.durchblick-durch-daten.de/datum-bereinigen/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://www.durchblick-durch-daten.de/on-the-job/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://www.durchblick-durch-daten.de/kontakt/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://www.durchblick-durch-daten.de/datenschutz/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://www.durchblick-durch-daten.de/powerbiredirectinfo/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://www.durchblick-durch-daten.de/impressum/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.durchblick-durch-daten.de/haftungsausschluss/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.durchblick-durch-daten.de/on-the-job/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.durchblick-durch-daten.de/datenschutz/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.durchblick-durch-daten.de/kontakt/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.durchblick-durch-daten.de/impressum/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.durchblick-durch-daten.de/powerbiredirectinfo/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.durchblick-durch-daten.de/online-trainings/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://www.durchblick-durch-daten.de/seminar/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.durchblick-durch-daten.de/sofort-service/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.durchblick-durch-daten.de/seminar/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.durchblick-durch-daten.de/subscription/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.durchblick-durch-daten.de/trainings/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://www.durchblick-durch-daten.de/ueber-uns/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
