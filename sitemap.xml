@@ -12,8 +12,11 @@
 <url> <loc>https://www.durchblick-durch-daten.de/author/hg/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.durchblick-durch-daten.de/author/up/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.durchblick-durch-daten.de/power-bi/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.durchblick-durch-daten.de/was-ist-power-bi/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.durchblick-durch-daten.de/power-query/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.durchblick-durch-daten.de/was-ist-power-query/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.durchblick-durch-daten.de/power-pivot/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.durchblick-durch-daten.de/was-ist-power-pivot/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.durchblick-durch-daten.de/excel-dax-queries-to-power-bi/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.durchblick-durch-daten.de/kreuzfilter-hell/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.durchblick-durch-daten.de/kalendertabelle-mit-feiertagen-in-dax-erzeugen/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
