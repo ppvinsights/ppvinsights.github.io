@@ -10,7 +10,6 @@
 <url> <loc>https://www.durchblick-durch-daten.de/author/hg/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.durchblick-durch-daten.de/author/up/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.durchblick-durch-daten.de/power-query/tipps-tricks/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://www.durchblick-durch-daten.de/power-bi/comparison-graph/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.durchblick-durch-daten.de/power-query/m-formatter/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.durchblick-durch-daten.de/power-pivot/der-rueckweg-aus-dem-datenmodell-reloaded/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.durchblick-durch-daten.de/power-pivot/excel-eine-millionen-zeilen/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -117,20 +116,20 @@
 <url> <loc>https://www.durchblick-durch-daten.de/power-pivot/power-pivot-aktivieren/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.durchblick-durch-daten.de/layout-von-slicern/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.durchblick-durch-daten.de/tabellen-verbinden/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://www.durchblick-durch-daten.de/verbinden-mit-einem-sql-server/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.durchblick-durch-daten.de/verbinden-mit-einer-oracle-datenbank/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://www.durchblick-durch-daten.de/verbindung-zu-einer-textdatei/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.durchblick-durch-daten.de/verbinden-mit-einem-sql-server/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.durchblick-durch-daten.de/verbinden-mit-ms-excel/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.durchblick-durch-daten.de/verbindung-zu-einer-textdatei/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.durchblick-durch-daten.de/datum-bereinigen/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://www.durchblick-durch-daten.de/haftungsausschluss/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://www.durchblick-durch-daten.de/impressum/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://www.durchblick-durch-daten.de/datenschutz/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.durchblick-durch-daten.de/kontakt/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.durchblick-durch-daten.de/datenschutz/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.durchblick-durch-daten.de/powerbiredirectinfo/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://www.durchblick-durch-daten.de/power-pivot/udemy-einfuehrung-in-power-pivot/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.durchblick-durch-daten.de/haftungsausschluss/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.durchblick-durch-daten.de/on-the-job/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://www.durchblick-durch-daten.de/sofort-service/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://www.durchblick-durch-daten.de/subscription/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.durchblick-durch-daten.de/impressum/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.durchblick-durch-daten.de/power-pivot/udemy-einfuehrung-in-power-pivot/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.durchblick-durch-daten.de/seminar/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.durchblick-durch-daten.de/sofort-service/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.durchblick-durch-daten.de/trainings/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.durchblick-durch-daten.de/subscription/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
